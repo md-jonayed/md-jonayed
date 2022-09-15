@@ -4,8 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Jonayed Sarkar</h1>
 <h3 align="center">I'm a passionate Android Developer from Bangladesh.</h3>
 
-I am an tech enthusiast. I try to learn new things everyday and try to keep up my pace with new technologies. I am highly motivated. I am currently studying at University Of Asia Pacific in the department of Computer Science & Engineering.
-I have taken some courses on android development from online platforms and also done some projects and app development on my own. Besides this I have  skills in different programming languages such as C, C++, JAVA, Python. On occasions, I often participate in competitive programming contests. I have also taken some courses on Coursera and obtained certificates  on Django, Machine Learning and Python. I also have profound knowledge on Calculus, Linear Algebra, Discrete Mathematics, Algorithms and Database Management systems.
+I'm a tech geek that tries to learn something new every day and stay up with emerging technology. very driven. At the University of Asia Pacific, I'm a student presently enrolled in the Computer Science & Engineering program.
+I've completed various projects and done some app programming on my own in addition to taking some online courses on android development. In addition, I am proficient in a number of programming languages, including C, C++, Java, and Python. I sometimes take part in intense programming competitions. Additionally, I have completed various classes on Coursera and earned certifications in Python, Django, and machine learning. I also have extensive expertise of database management systems, algorithms, discrete mathematics, linear algebra, and calculus.
 
 Skills:  HTML / CSS / Django / Android / Java / Python / Machine Learning / Database management systems.
 
