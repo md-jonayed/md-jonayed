@@ -2,17 +2,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Jonayed Sarkar</h1>
-<h3 align="center">I'm a passionate Android Developer from Bangladesh.</h3>
+<h3 align="center">A Programmer, Passionate Android Developer, Data Scientist.</h3>
 
 I'm a tech geek that tries to learn something new every day and stay up with emerging technology. very driven. At the University of Asia Pacific, I'm a student presently enrolled in the Computer Science & Engineering program.
-I've completed various projects and done some app programming on my own in addition to taking some online courses on android development. In addition, I am proficient in a number of programming languages, including C, C++, Java, and Python. I sometimes take part in intense programming competitions. Additionally, I have completed various classes on Coursera and earned certifications in Python, Django, and machine learning. I also have extensive expertise of database management systems, algorithms, discrete mathematics, linear algebra, and calculus.
+I've completed various projects and done some software development on my own in addition to taking some online courses on android development. In addition, I am proficient in a number of programming languages, including C, C++, Java, and Python. Sometimes I take part in intense programming competitions. Additionally, I have completed various classes on Coursera and earned certifications in Python, Django, and Machine Learning. I also have extensive expertise of Database Management Systems, Algorithms, Data Structures, Discrete Mathematics, Linear Algebra, Statistics & Calculus.
 
-Skills:  HTML / CSS / Django / Android / Java / Python / Machine Learning / Database management systems.
+Skills:  HTML / CSS / Django / Android / Java / Python / Machine Learning / Database Management Systems.
 
-- 🔭 I’m currently working on i am currently working on a web development project named Artsy Lens and working as a volunteers on a Machine Learning based research project on Sign Board detection 
-- 🌱 I’m currently learning Django, Machine Learning, System development & analysis 
+- 🔭 I’m currently working on i am currently working on a web development project named StudyHub and working  on a Machine Learning based research project on Post Covid Vulnerabilities. 
+- 🌱 I’m currently learning Django, Machine Learning, Artificial Intelligence.  
 - 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: mdjonayed64173@gmail.com 
+- 📫 Way to reach me: mdjonayed64173@gmail.com 
 
 ## 🚀 Languages and Tools:
 
