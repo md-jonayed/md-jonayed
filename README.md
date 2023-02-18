@@ -110,6 +110,22 @@
 <br>
 <br>
 
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/md-jonayed">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-jonayed#version3"/>
+  </a>
+</p>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{md-jonayed}/count.svg" /></p> 
+<br>
+</div>
+ 
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -158,3 +174,5 @@
 ---
 
 <br>
+
+
