@@ -18,10 +18,11 @@
 <br>
 
 - A passionate researcher
+- developed differnt basic android apks
 - Exploring the fields of AI, ML, DL.
 - Currently working on my thesis about post covid vulnerabilities 
 - have profound knowledge in many programming languages like C, C++, Java, Python as well as in SQL
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1-hKwe_Hv-rNFfquCcAg7A1Frkdq_t9Dn?usp=sharing)
 
 <br><br>
 
