@@ -17,11 +17,12 @@
 
 <br>
 
-- A passionate researcher
-- developed differnt basic android apks
+- A passionate Researcher.
 - Exploring the fields of AI, ML, DL.
-- Currently working on my thesis about post covid vulnerabilities 
-- have profound knowledge in many programming languages like C, C++, Java, Python as well as in SQL
+- Currently working in my thesis project on post covid vulnerabilities .
+- developed differnt basic android apks.
+- have profound knowledge in several programming languages like C, C++, Java, Python.
+- have basic understanding of SQL.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1-hKwe_Hv-rNFfquCcAg7A1Frkdq_t9Dn?usp=sharing)
 
 <br><br>
@@ -87,6 +88,20 @@
 -----
 
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifactions </b>
+<br>
+
+* <b>[Machine Learning
+Stanford University -coursera](https://coursera.org/share/90cddf10f1ab33605203322842f0932c)
+* [Web Application Technologies and Django
+University of Michigan - coursera](https://coursera.org/share/9f114cbdbfc7666787cd45d9202c1f6a)
+* [Python Data Structures
+University of Michigan -coursera](https://coursera.org/share/45db63bf5e0112e3ea6332ada1e6c517)
+* [Programming for Everybody (Getting Started with Python)
+University of Michigan -coursera](https://coursera.org/share/f5eee56ac3365d3e1a038f01834646e6)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
