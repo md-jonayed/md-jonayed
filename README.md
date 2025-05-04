@@ -180,7 +180,7 @@ DeepLearning.AI - coursera](https://coursera.org/share/9f114cbdbfc7666787cd45d92
 
 - **Decoding The Streaming Landscape: A Statistical Drive**
     - Description: This is my very first data analysis project.
-    - Demonstration Link: [Click Here](Click Here)
+    - Demonstration Link: [Click Here](https://www.linkedin.com/pulse/decoding-streaming-landscape-statistical-drive-md-jonayed-sarkar-zjyic/)
     - Technology: Python, Statistics, NumPy, Matplotlib, Pandas, SciPy.
 - **Blog Website**
     - Description: It’s a website for blog sharing built on Django.
