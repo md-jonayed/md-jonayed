@@ -191,7 +191,7 @@ DeepLearning.AI - coursera](https://coursera.org/share/9f114cbdbfc7666787cd45d92
     - Implementation 1 with Django - [Click Here](https://github.com/md-jonayed/django-rest-api)
     - Implementation 2 with Django - [Click Here](https://github.com/md-jonayed/django-rest-framework)
     - Implementation 3 with Django - [Click Here](https://github.com/md-jonayed/django-rest-api-3rd-implementation)
-    - Implementation 4 with Spring Boot - [Click Here](https://github.com/md-jonayed/rest-api-java)
+    - Implementation 4 with Spring Boot - [Click Here](https://github.com/md-jonayed/rest-api-Spring_Boot)
     - Technology: Python, Java, Django, Django REST Framework, Spring Boot.
 
 - **Melody Player**
