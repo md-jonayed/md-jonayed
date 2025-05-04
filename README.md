@@ -56,6 +56,7 @@ March 2025 - Present
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -127,6 +128,7 @@ March 2025 - Present
 <br>
 
 <br>
+-->
 
 <!-- - **Extras**:
 
@@ -146,7 +148,10 @@ March 2025 - Present
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifactions </b>
 <br>
 
-* <b>[Machine Learning
+
+* <b>[Vice Chancellor’s Award – Spring 2021. University of Asia Pacific ]
+* [Dean’s Award – Spring 2022, Fall 2020, Spring 2020, Fall 2019. University of Asia Pacific ]
+* [Machine Learning
 Stanford University -coursera](https://coursera.org/share/90cddf10f1ab33605203322842f0932c)
 * [Web Application Technologies and Django
 University of Michigan - coursera](https://coursera.org/share/9f114cbdbfc7666787cd45d9202c1f6a)
@@ -154,6 +159,16 @@ University of Michigan - coursera](https://coursera.org/share/9f114cbdbfc7666787
 University of Michigan -coursera](https://coursera.org/share/45db63bf5e0112e3ea6332ada1e6c517)
 * [Programming for Everybody (Getting Started with Python)
 University of Michigan -coursera](https://coursera.org/share/f5eee56ac3365d3e1a038f01834646e6)
+* [Mathematics for ML & Data Science
+DeepLearning.AI  - coursera]([https://coursera.org/share/9f114cbdbfc7666787cd45d9202c1f6a](https://www.coursera.org/account/accomplishments/specialization/RT3DP59FQIR7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n))
+* [Linear Algebra for Machine Learning and DataScience
+DeepLearning.AI - coursera]([https://coursera.org/share/9f114cbdbfc7666787cd45d9202c1f6a](https://www.coursera.org/account/accomplishments/verify/17WIF8FEENFL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
+* [Probability & Statistics for Machine Learning & Data Science
+DeepLearning.AI - coursera]([https://coursera.org/share/9f114cbdbfc7666787cd45d9202c1f6a](https://www.coursera.org/account/accomplishments/verify/U47HTXGL5LVE?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course))
+* [Calculus for Machine Learning & Data Science
+DeepLearning.AI - coursera]([https://coursera.org/share/9f114cbdbfc7666787cd45d9202c1f6a](https://www.coursera.org/account/accomplishments/verify/6BAAFXDW1NRC?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
