@@ -54,7 +54,7 @@ March 2025 - Present
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 <!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -141,7 +141,6 @@ March 2025 - Present
 <br>
 <br>
 
------
 
 <br>
 
@@ -182,40 +181,49 @@ DeepLearning.AI - coursera](https://coursera.org/share/9f114cbdbfc7666787cd45d92
     - Description: This is my very first data analysis project.
     - Demonstration Link: [Click Here](https://www.linkedin.com/pulse/decoding-streaming-landscape-statistical-drive-md-jonayed-sarkar-zjyic/)
     - Technology: Python, Statistics, NumPy, Matplotlib, Pandas, SciPy.
+
 - **Blog Website**
     - Description: It’s a website for blog sharing built on Django.
     - Demonstration Link: [Click Here](https://www.linkedin.com/posts/mdjonayedsarkar_my-latest-project-blog-website-built-activity-7322281180765028352-Tey7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVQa1UBnJBVumLOW7q5oANBWZyuna-o52U)
     - Technology: Python, Django, HTML, CSS.
+
 - **REST API Implementations**
     - Implementation 1 with Django - [Click Here](https://github.com/md-jonayed/django-rest-api)
     - Implementation 2 with Django - [Click Here](https://github.com/md-jonayed/django-rest-framework)
     - Implementation 3 with Django - [Click Here](https://github.com/md-jonayed/django-rest-api-3rd-implementation)
     - Implementation 4 with Spring Boot - [Click Here](https://github.com/md-jonayed/rest-api-java)
     - Technology: Python, Java, Django, Django REST Framework, Spring Boot.
+
 - **Melody Player**
     - Description: It’s a music player built on the Android stack.
     - Demonstration Link: [Click Here](https://drive.google.com/file/d/1-cMbYSM7Mpai6BG3BOrkJW9EZ2u0x2n3/view)
     - Technology: Java, Android.
+
 - **Sci-Calculator**
     - Description: It’s a semi-scientific calculator for moderate calculation.
     - Demonstration Link: [Click Here](https://drive.google.com/file/d/1kx6KyE-TVyori7_ZcJPnglNiFssa1u-g/view)
     - Technology: Java, Android.
+
 - **Portfolio Site**
     - Description: It’s a portfolio website of mine built on the Django stack.
     - Demonstration Link: [Click Here](https://drive.google.com/file/d/1b8NPEmiqJnP1JAE2QRmDyzM9JuAGgmg4/view)
     - Technology: HTML, CSS, JavaScript, Django.
+
 - **ArtsyLens**
     - Description: It’s an online-based “Photocentric” marketplace to buy, sell & share your artistic creativity.
     - Demonstration Link: [Click Here](https://drive.google.com/file/d/1GRH9EJI9LyVHAqsceaShmnOoyiT8jjpG/view)
     - Technology: HTML, CSS, JavaScript, Bootstrap, Django.
+
 - **Recognizer**
     - Description: In this project, I trained my machine learning model to recognize some objects and then converted this into an Android app.
     - Demonstration Link: [Click Here](https://drive.google.com/file/d/1J8jqgW_hgulVqdOeU4CbxoZOS3MjDIs5/view)
     - Technology: Java, Android, Python, ML.
+
 - **Energy Generation Prediction Model**
     - Description: It’s a machine learning model to predict energy production in a power plant. It was built on a linear regression model which was implemented from scratch         without the help of any ML library or module.
     - Demonstration Link: [Click Here](https://colab.research.google.com/drive/15he03fnRqB1Wn_nxlRW29feqb88pdWwU?usp=sharing)
     - Technology: Python, NumPy, Pandas, Matplotlib, ML.
+
 - **Cousins**
     - Description: Here I trained my ML model to detect people correctly. Afterwards, it was converted into an Android app.
     - Demonstration Link: [Click Here](https://drive.google.com/file/d/1QHiSbtioqI5W8lxYK_MJ8P1EM2FziFpU/view)
@@ -268,20 +276,20 @@ DeepLearning.AI - coursera](https://coursera.org/share/9f114cbdbfc7666787cd45d92
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/mohammad-jonayed-b3167820b" target="_blank">
+<a href="https://www.linkedin.com/in/mdjonayedsarkar" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  mohammad_jonayed-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
-<li>
+<!--<li>
 <a href="https://www.facebook.com/mohammad.jonayed.1466?mibextid=ZbWKwL
 ">
 <img src="https://img.shields.io/badge/facebook:  md_Jonayed-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
 </a>
 </li>
-
+-->
 <br>
 
 <li>
