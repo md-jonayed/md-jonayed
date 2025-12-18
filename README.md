@@ -1,12 +1,27 @@
-# Hi there, I'm Md Jonayed Sarkar
+<div align="center">
 
-**AI/ML Engineer | Software Engineer | IEEE Published Researcher**
+<h1>Hi there, I'm Md Jonayed Sarkar 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad_jonayed-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjonayedsarkar)
-[![Gmail](https://img.shields.io/badge/Gmail-md_jonayed-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjonayed64173@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-md-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-jonayed)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-md-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=QyzRZcsAAAAJ)
----
+<p><b>AI/ML Engineer | Software Engineer | IEEE Published Researcher</b></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mdjonayedsarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-mohammad_jonayed-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdjonayed64173@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-md_jonayed-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/md-jonayed">
+    <img src="https://img.shields.io/badge/GitHub-md-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=QyzRZcsAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-md-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+</p>
+
+</div>
+
+
 
 ## GitHub Stats & Activity
 
@@ -29,7 +44,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=md-jonayed.md-jonayed" alt="Visitor Count" />
 </p>
 
----
 
 ## 💻 Core Expertise
 - **Programming:** Python, Java, C++, C  
