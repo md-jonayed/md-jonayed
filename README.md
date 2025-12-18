@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there, I'm Md Jonayed Sarkar 👋</h1>
+<h1>Hi there, I'm Md Jonayed Sarkar</h1>
 
 <p><b>AI/ML Engineer | Software Engineer | IEEE Published Researcher</b></p>
 
